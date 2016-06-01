@@ -1,0 +1,13 @@
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\bin\Debug\VkBot.exe.config
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\bin\Debug\VkBot.exe
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\bin\Debug\VkBot.pdb
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\bin\Debug\VkNet.dll
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\bin\Debug\VkNet.pdb
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\bin\Debug\VkNet.xml
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\obj\Debug\VkBot.exe
+C:\Users\User\Documents\GitHubVisualStudio\Graph\VkBot\VkBot\obj\Debug\VkBot.pdb
